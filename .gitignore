@@ -43,4 +43,4 @@ Temporary Items
 .apdisk
 
 # build generated files
-.png
+*.png
